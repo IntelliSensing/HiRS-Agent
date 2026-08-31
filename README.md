@@ -176,8 +176,6 @@ If you find HiRS-Agent useful, please cite our paper:
   author    = {Mu, Boyang and Wei, Zhiwei and Peng, Mugen and Xu, Wenjia},
   booktitle = {Proceedings of the 34th ACM International Conference on Multimedia (MM '26)},
   year      = {2026},
-  publisher = {Association for Computing Machinery},
-  address   = {New York, NY, USA},
   location  = {Rio de Janeiro, Brazil},
   doi       = {10.1145/3767308.3835311},
   isbn      = {979-8-4007-2213-4/2026/11}
