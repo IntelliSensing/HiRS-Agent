@@ -182,10 +182,6 @@ If you find HiRS-Agent useful, please cite our paper:
 }
 ```
 
-## Acknowledgements
-
-This work has been funded by the National Natural Science Foundation of China under Grant 62301063. We thank the developers and maintainers of the open-source models, remote sensing benchmarks, and tool ecosystems that support this research.
-
 ## Contact
 
 For questions or feedback, please open an issue or contact the authors:
